@@ -3,3 +3,5 @@
 	email = benson5819@gmail.com
 [color]
 	ui = true
+[core]
+	editor = vim
